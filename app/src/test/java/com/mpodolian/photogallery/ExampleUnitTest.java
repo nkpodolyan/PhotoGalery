@@ -1,4 +1,4 @@
-package com.mpodolin.photogalery;
+package com.mpodolian.photogallery;
 
 import org.junit.Test;
 
